@@ -1,0 +1,78 @@
+[12:35:43] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:35:45] [Server thread/INFO]: Loading properties
+[12:35:45] [Server thread/INFO]: Default game type: SURVIVAL
+[12:35:45] [Server thread/INFO]: Generating keypair
+[12:35:45] [Server thread/INFO]: Starting Minecraft server on 10.141.40.58:25565
+[12:35:46] [Server thread/INFO]: Preparing level "world"
+[12:35:46] [Server thread/INFO]: Preparing start region for level 0
+[12:35:47] [Server thread/INFO]: Done (0.769s)! For help, type "help" or "?"
+[12:36:41] [User Authenticator #1/INFO]: UUID of player DeakinHive1 is 0eb4f136-acbd-4bbe-8856-3747eb95f5e2
+[12:36:42] [Server thread/INFO]: DeakinHive1[/10.141.40.58:58334] logged in with entity id 0 at (-89.55546177228094, 91.0, 102.83182504917087)
+[12:36:42] [Server thread/INFO]: DeakinHive1 joined the game
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Changing to clear weather]
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-110, 91, 100)]
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Teleported DeakinHive1 to -109.5,91.5,100.5]
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Set the time to 1000]
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Game rule has been updated]
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Game rule has been updated]
+[12:36:42] [Server thread/INFO]: [DeakinHive1: Game rule has been updated]
+[12:36:42] [Server thread/WARN]: Wrong location! EntityPlayerMP['DeakinHive1'/0, l='world', x=-109.50, y=91.50, z=100.50] (at -7, 6 instead of -6, 6)
+[12:36:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d52aa21[id=<null>,name=DeakinHive2,properties={},legacy=false] (/10.148.123.122:53194) lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[12:36:53] [Server thread/INFO]: [DeakinHive1: Object successfully summoned]
+[12:37:03] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:37:17] [Server thread/INFO]: [DeakinHive1: Object successfully summoned]
+[12:37:22] [Server thread/INFO]: [DeakinHive1: Object successfully summoned]
+[12:37:24] [User Authenticator #2/INFO]: UUID of player DeakinHive2 is 8f186285-9ad6-495e-82eb-961c36a3c403
+[12:37:24] [Server thread/INFO]: DeakinHive2[/10.148.123.122:53270] logged in with entity id 4 at (-70.55287638602049, 91.0, 97.49389508824368)
+[12:37:24] [Server thread/INFO]: DeakinHive2 joined the game
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Changing to clear weather]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Set DeakinHive2's spawn point to (-110, 91, 100)]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Set DeakinHive1's spawn point to (-110, 91, 100)]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Teleported DeakinHive2 to -109.5,91.5,100.5]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Set the time to 1000]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Game rule has been updated]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Game rule has been updated]
+[12:37:24] [Server thread/INFO]: [DeakinHive2: Game rule has been updated]
+[12:37:24] [Server thread/WARN]: Wrong location! EntityPlayerMP['DeakinHive2'/4, l='world', x=-109.50, y=91.50, z=100.50] (at -7, 6 instead of -5, 6)
+[12:37:30] [Server thread/INFO]: [DeakinHive1: Object successfully summoned]
+[12:37:41] [Server thread/INFO]: [DeakinHive1: Object successfully summoned]
+[12:38:20] [Server thread/INFO]: <DeakinHive1> Hey I'll build the brudge
+[12:38:26] [Server thread/INFO]: <DeakinHive1> Bridge*
+[12:38:31] [Server thread/INFO]: <DeakinHive2> help push
+[12:39:58] [Server thread/INFO]: <DeakinHive1> Lets make the bridge
+[12:41:59] [Server thread/INFO]: <DeakinHive1> ill build
+[12:41:59] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:41:59] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:00] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:00] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:07] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:07] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:14] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:15] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:15] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:15] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:15] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:16] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:16] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:42:16] [Server thread/INFO]: [DeakinHive1: Set DeakinHive1's spawn point to (-32, 91, 100)]
+[12:42:16] [Server thread/INFO]: [DeakinHive1: Set DeakinHive2's spawn point to (-32, 91, 100)]
+[12:43:11] [Server thread/INFO]: DeakinHive2 went up in flames
+[12:43:42] [Server thread/INFO]: DeakinHive2 tried to swim in lava
+[12:53:10] [Server thread/INFO]: DeakinHive1 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:53:10] [Server thread/INFO]: DeakinHive1 left the game
+[12:53:13] [Server thread/INFO]: DeakinHive2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:53:13] [Server thread/INFO]: DeakinHive2 left the game
+[12:53:16] [Server thread/INFO]: Stopping the server
+[12:53:16] [Server thread/INFO]: Stopping server
+[12:53:16] [Server thread/INFO]: Saving players
+[12:53:16] [Server thread/INFO]: Saving worlds
+[12:53:16] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:53:16] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[12:53:16] [Server thread/INFO]: Saving chunks for level 'world'/The End

@@ -1,0 +1,191 @@
+{
+  "events": [
+    {
+      "event_type": "TICK",
+      "ticks": "5",
+      "tasks": [
+
+        {
+          "task_type": "INVENTORY_REMOVE",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "minecraft",
+          "name": "stone",
+          "meta": "0",
+          "count": "500",
+          "nbt": "",
+          "conditions": [
+            {
+              "condition_type": "AREA",
+              "startX": "-30",
+              "startY": "85",
+              "startZ": "75",
+              "endX": "-28",
+              "endY": "100",
+              "endZ": "128"
+            }
+          ]
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "minecraft",
+          "name": "stone",
+          "meta": "0",
+          "count": "120",
+          "nbt": "",
+          "conditions": [
+            {
+              "condition_type": "AREA",
+              "startX": "-30",
+              "startY": "85",
+              "startZ": "75",
+              "endX": "-28",
+              "endY": "100",
+              "endZ": "128"
+            }
+          ]
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "/spawnpoint @a -32 91 100",
+          "ignorePrivilages": "true",
+          "conditions": [
+            {
+              "condition_type": "AREA",
+              "startX": "-30",
+              "startY": "85",
+              "startZ": "75",
+              "endX": "-28",
+              "endY": "100",
+              "endZ": "128"
+            }
+          ]
+        },
+        {
+          "task_type": "INVENTORY_REMOVE",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "minecraft",
+          "name": "stone",
+          "meta": "0",
+          "count": "500",
+          "nbt": "",
+          "conditions": [
+            {
+              "condition_type": "AREA",
+              "startX": "48",
+              "startY": "85",
+              "startZ": "75",
+              "endX": "50",
+              "endY": "100",
+              "endZ": "128"
+            }
+          ]
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "minecraft",
+          "name": "stone",
+          "meta": "0",
+          "count": "160",
+          "nbt": "",
+          "conditions": [
+            {
+              "condition_type": "AREA",
+              "startX": "48",
+              "startY": "85",
+              "startZ": "75",
+              "endX": "50",
+              "endY": "100",
+              "endZ": "128"
+            }
+          ]
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "/spawnpoint @a 42 91 100",
+          "ignorePrivilages": "true",
+          "conditions": [
+            {
+              "condition_type": "AREA",
+              "startX": "48",
+              "startY": "85",
+              "startZ": "75",
+              "endX": "50",
+              "endY": "100",
+              "endZ": "128"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "event_type": "JOIN_WORLD",
+      "joinOneEver": "false",
+      "noDeathDim": "true",
+      "target": "ALL_PLAYERS",
+      "tasks": [
+        {
+          "task_type": "INVENTORY_REMOVE",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "minecraft",
+          "name": "stone",
+          "meta": "0",
+          "count": "500",
+          "nbt": ""
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "minecraft",
+          "name": "stone",
+          "meta": "0",
+          "count": "40",
+          "nbt": ""
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "/weather clear 99999",
+          "ignorePrivilages": "true"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "/spawnpoint @a -110 91 100",
+          "ignorePrivilages": "true"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "/tp @p -110 91 100",
+          "ignorePrivilages": "true"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "time set day",
+          "ignorePrivilages": "true"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "gamerule doMobSpawning false",
+          "ignorePrivilages": "true"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "gamerule doDaylightCycle false",
+          "ignorePrivilages": "true"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "gamerule keepInventory true",
+          "ignorePrivilages": "true"
+        }
+      ]
+    }
+  ]
+}

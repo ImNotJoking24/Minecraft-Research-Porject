@@ -1,0 +1,11 @@
+2GB Server:
+java -Xmx2048M -Xms2048M -jar forgeserver.jar nogui
+PAUSE
+
+3GB Server:
+java -Xmx3072M -Xms3072M -jar forgeserver.jar nogui
+PAUSE
+
+4GB Server:
+java -Xmx4096M -Xms4096M -jar forgeserver.jar nogui
+PAUSE

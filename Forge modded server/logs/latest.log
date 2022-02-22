@@ -1,0 +1,53 @@
+[25Nov2019 15:00:41.692] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 28.1.0, --fml.mcpVersion, 20190829.143755, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[25Nov2019 15:00:41.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 3.2.0+60+b86c1d4 starting: java version 1.8.0_231 by Oracle Corporation
+[25Nov2019 15:00:42.676] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[25Nov2019 15:00:43.469] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[25Nov2019 15:00:53.222] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25Nov2019 15:00:53.224] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25Nov2019 15:00:53.226] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25Nov2019 15:00:53.228] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25Nov2019 15:00:53.230] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25Nov2019 15:00:53.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.14.4
+[25Nov2019 15:00:53.919] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.1.0, for MC 1.14.4 with MCP 20190829.143755
+[25Nov2019 15:00:53.920] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.1.0 Initialized
+[25Nov2019 15:00:54.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[25Nov2019 15:00:54.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Nov2019 15:00:54.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Nov2019 15:00:54.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[25Nov2019 15:00:55.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 10.141.44.54:25565
+[25Nov2019 15:00:55.038] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[25Nov2019 15:00:56.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 28.1.0 Target: null
+[25Nov2019 15:00:57.204] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[25Nov2019 15:00:57.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Nov2019 15:00:57.422] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.14.4-28.1.0-universal.jar
+[25Nov2019 15:00:57.857] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[25Nov2019 15:00:58.247] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[25Nov2019 15:00:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Nov2019 15:00:59.408] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Nov2019 15:00:59.409] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Nov2019 15:00:59.635] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Nov2019 15:01:01.604] [Server-Worker-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[25Nov2019 15:01:01.606] [Server-Worker-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[25Nov2019 15:01:01.607] [Server-Worker-7/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[25Nov2019 15:01:01.608] [Server-Worker-7/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[25Nov2019 15:01:02.003] [Server-Worker-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[25Nov2019 15:01:02.499] [Server-Worker-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[25Nov2019 15:01:03.002] [Server-Worker-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[25Nov2019 15:01:03.271] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4773 ms
+[25Nov2019 15:01:03.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.102s)! For help, type "help"
+[25Nov2019 15:01:03.677] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Nov2019 15:01:03.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Nov2019 15:02:34.164] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DeakinHive1 is 0eb4f136-acbd-4bbe-8856-3747eb95f5e2
+[25Nov2019 15:02:35.566] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DeakinHive1[/10.141.44.54:52642] logged in with entity id 439 at (-211.7580376743449, 66.0, -71.77867028711589)
+[25Nov2019 15:02:35.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DeakinHive1 joined the game
+[25Nov2019 15:02:35.621] [Netty Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3df4c58e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[25Nov2019 15:02:35.645] [Netty Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@fdec4e1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[25Nov2019 15:04:38.288] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DeakinHive1 lost connection: Disconnected
+[25Nov2019 15:04:38.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DeakinHive1 left the game
+[25Nov2019 15:37:44.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[25Nov2019 15:37:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Nov2019 15:37:44.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Nov2019 15:37:44.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Nov2019 15:37:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
+[25Nov2019 15:37:45.015] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Nov2019 15:37:45.326] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
